@@ -25,3 +25,4 @@ elif num > 1:
     else:
         print(num, "is a prime number")
         print()num % i
+exit
